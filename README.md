@@ -1,4 +1,4 @@
-### Hi there 👋 I'm UsagiBryan a.k.a Frankie.
+### Hi there 👋 I'm usagibryan a.k.a Frankie.
 ![](https://visitor-badge.laobi.icu/badge?page_id=usagibryan.usagibryan) [![Github](https://img.shields.io/github/followers/usagibryan?label=Followers&logo=Github)](https://github.com/usagibryan)
 
 ## 💻 I'm a School Tech
