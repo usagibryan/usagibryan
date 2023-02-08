@@ -4,7 +4,7 @@
 ## 💻 I'm a School Tech
 
 - 🚀 I’m currently working on a space themed shooter called [Star Fighter](https://github.com/usagibryan/star_fighter)
-- 🌱 I’m currently learning Python, Pygame, HTML and Git.
+- 🌱 I’m currently teaching myself Python, Pygame, HTML and Git.
 - 🤔 I’m looking for help with... anything. Any constructive criticism is welcome. I'm new to coding.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He, him, his
