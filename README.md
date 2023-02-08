@@ -39,11 +39,16 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Pygame" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## 🎓 I Want to Learn
 
-
-<!--
-add C# and Unity... and Pygame?
--->
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/180px-Godot_icon.svg.png" alt="Godot" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C Sharp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 ## :trophy: My Github Stats:
 
