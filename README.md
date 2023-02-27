@@ -119,7 +119,7 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
 -->
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=usagibryan&theme=tokyonight">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=usagibryan&count_private=true&show_icons=true&theme=tokyonight" />
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=usagibryan&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=usagibryan&hide=php&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagibryan&hide=php&theme=tokyonight" />
