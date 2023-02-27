@@ -4,7 +4,7 @@
 ## 💻 I'm a School Tech
 
 - 🚀 I’m currently working on..
-  - [The Odin Project](https://www.theodinproject.com/)
+  - [The Odin Project](https://www.theodinproject.com/) for learning web development
   - [Learn Python by making games](https://www.udemy.com/course/learn-python-by-making-games/) by Christian Koch A.K.A. [Clear Code](https://www.youtube.com/c/ClearCode)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
 - 🌱 I’m currently teaching myself Python, Pygame, HTML, CSS and Git.
