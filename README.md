@@ -118,8 +118,8 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=usagibryan&hide=php&theme=tokyonight)
 -->
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=usagibryan&theme=tokyonight">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=usagibryan&count_private=true&show_icons=true&theme=tokyonight" />
+  <a href="https://github-readme-stats.vercel.app/api?username=usagibryan&theme=gruvbox">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=usagibryan&count_private=true&show_icons=true&theme=gruvbox" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=usagibryan&hide=php&theme=gruvbox">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagibryan&layout=compact&hide=php&theme=gruvbox" />
