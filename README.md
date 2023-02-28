@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm usagibryan a.k.a Frankie.
-![](https://visitor-badge.laobi.icu/badge?page_id=usagibryan.usagibryan) [![Github](https://img.shields.io/github/followers/usagibryan?label=Followers&logo=Github)](https://github.com/usagibryan)
+![](https://visitor-badge.laobi.icu/badge?page_id=usagibryan.usagibryan) [![Github](https://img.shields.io/github/followers/usagibryan?label=Followers&logo=Github)](https://github.com/usagibryan) [![Github](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=red)](https://replit.com/@usagibryan)
 
 ## 💻 I'm a School Tech
 
