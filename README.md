@@ -3,10 +3,11 @@
 
 ## 💻 I'm a School Tech
 
-- 🚀 I’m currently working on..
-  - [The Odin Project](https://www.theodinproject.com/) for learning web development
-  - [Learn Python by making games](https://www.udemy.com/course/learn-python-by-making-games/) by Christian Koch A.K.A. [Clear Code](https://www.youtube.com/c/ClearCode)
+- 🚀 I’m currently studying for my [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) certification, but when I have time I'm also doing...
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
+  - [The Odin Project](https://www.theodinproject.com/) for learning web development
+  - [TryHackMe](https://tryhackme.com/) for learning CyberSecurity
+  - [Learn Python by making games](https://www.udemy.com/course/learn-python-by-making-games/) by Christian Koch A.K.A. [Clear Code](https://www.youtube.com/c/ClearCode)
 - 🌱 I’m currently teaching myself Python, Pygame, HTML, CSS and Git.
 - 🤔 I’m looking for help with... anything. Any constructive criticism is welcome. I'm new to coding.
 - 💬 Ask me about anything.
