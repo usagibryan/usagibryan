@@ -3,12 +3,8 @@
 
 ## 💻 I'm a School Tech
 
-- 🚀 I’m currently studying for my [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) certification, but when I have time I'm also doing...
-  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
-  - [The Odin Project](https://www.theodinproject.com/) for learning the principles of web development
-  - [TryHackMe](https://tryhackme.com/) to get my feet wet with cybersecurity
-  - [Learn Python by making games](https://www.udemy.com/course/learn-python-by-making-games/) by Christian Koch A.K.A. [Clear Code](https://www.youtube.com/c/ClearCode)
-- 🌱 I’m currently teaching myself Python, Pygame, HTML, CSS and Git.
+- 🚀 I’m currently studying for... no active certifications at this time
+- 🌱 I’m currently teaching myself Godot.
 - 🤔 I’m looking for help with... anything. Any constructive criticism is welcome. I'm new to coding.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He, him, his
@@ -52,9 +48,6 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
   <a href="https://en.wikipedia.org/wiki/Microsoft_Windows">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Active_Directory">
-    <img src="https://fr33s0ul.tech/content/images/size/w600/2020/04/aD.png" alt="Active Directory" height="40" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://en.wikipedia.org/wiki/PowerShell">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" height="40" style="vertical-align:top; margin:4px">
   </a>
@@ -66,6 +59,9 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
   </a>
   <a href="https://www.virtualbox.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -92,9 +88,6 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
   </a>
   <a href="https://github.com/">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.pygame.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Pygame" height="40" style="vertical-align:top; margin:4px">
