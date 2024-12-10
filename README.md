@@ -4,7 +4,7 @@
 ## 💻 I'm a School Tech
 
 - 🚀 I’m currently studying for... no active certifications at this time
-- 🌱 I’m currently teaching myself Godot.
+- 🌱 I’m currently teaching myself Python, Godot and LMMS.
 - 🤔 I’m looking for help with... anything. Any constructive criticism is welcome. I'm new to coding.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He, him, his
