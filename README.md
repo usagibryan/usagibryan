@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Frankie.
-![](https://visitor-badge.laobi.icu/badge?page_id=usagibryan.usagibryan) [![Github](https://img.shields.io/github/followers/usagibryan?label=Followers&logo=Github)](https://github.com/usagibryan) [![Github](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=red)](https://replit.com/@usagibryan)
+![](https://visitor-badge.laobi.icu/badge?page_id=frankiebry.frankiebry) [![Github](https://img.shields.io/github/followers/frankiebry?label=Followers&logo=Github)](https://github.com/frankiebry) [![Github](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=red)](https://replit.com/@frankiebry)
 
 ## 💻 I'm a School Tech
 
@@ -10,7 +10,7 @@
 - 😄 Pronouns: He, him, his
 
 <!--
-**usagibryan/usagibryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**frankiebry/frankiebry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -111,14 +111,14 @@ Also see: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-read
 ## :trophy: My Github Stats:
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=usagibryan&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=usagibryan&hide=php&theme=tokyonight)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=frankiebry&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=frankiebry&hide=php&theme=tokyonight)
 -->
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=usagibryan&theme=gruvbox">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=usagibryan&count_private=true&show_icons=true&theme=gruvbox" />
+  <a href="https://github-readme-stats.vercel.app/api?username=frankiebry&theme=gruvbox">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=frankiebry&count_private=true&show_icons=true&theme=gruvbox" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=usagibryan&hide=php&theme=gruvbox">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagibryan&layout=compact&hide=php&theme=gruvbox" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=frankiebry&hide=php&theme=gruvbox">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankiebry&layout=compact&hide=php&theme=gruvbox" />
   </a>
 </div>
